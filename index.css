@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+.container {
+  background-color: black;
+  height: 50px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.items {
+  display: inline-block;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 12px;
+  margin-right: 40px;
+}
+.icon {
+  font-size: 19px;
+}
